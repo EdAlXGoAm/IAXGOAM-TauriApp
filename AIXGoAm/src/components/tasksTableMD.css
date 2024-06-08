@@ -1,0 +1,19 @@
+.notifications-cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  width: 15%;
+  height: 100%;
+}
+
+.time-cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  width: 7%;
+  height: 100%;
+}

@@ -1,0 +1,3 @@
+[submodule "AIXGoAm/src/api/task"]
+	path = AIXGoAm/src/api/task
+	url = https://github.com/EdAlXGoAm/AIXGoAm-API_Task.git
